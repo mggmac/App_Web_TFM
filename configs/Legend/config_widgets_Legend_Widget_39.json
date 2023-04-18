@@ -1,0 +1,23 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "73a66c3ac7b840c780b59ad1baba928e": {
+      "selected": true
+    },
+    "e21cd722a2264ed0b6c0e382c7a72710": {
+      "selected": true
+    },
+    "293b570f1b3c4aabb5db05182e095104": {
+      "selected": true
+    },
+    "31a1dd7830af4ddfbcb2b0d76337710a": {
+      "selected": false
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}
