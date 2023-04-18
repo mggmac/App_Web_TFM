@@ -109,7 +109,7 @@ define([
 
       this.map.addLayer(this.capaFacilities);
 
-      // this.params = new ClosestFacilityParameters();
+    
 
       // 1.3 - La capa de incidentes, la cual recogerá el punto inicial de la ruta marcado por el usuario
       this.capaIncidentes = new GraphicsLayer();
