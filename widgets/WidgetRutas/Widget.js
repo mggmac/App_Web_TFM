@@ -191,11 +191,12 @@ define([
                     
                     this.capaRutas.clear();
                     this.capaRutas.add(route);
+                    this.direcciones.innerHTML=""
 
                     // 2.3.2 Se recorre la array de textos creada y se pone dentro del widget.
                     attr.forEach(function (index) {
                       var parrafo = document.createElement("p");
-                      parrafo.innerHTML=""
+                      
                       parrafo.innerHTML = index;
                       dom.byId("direcciones").appendChild(parrafo);
                     });
